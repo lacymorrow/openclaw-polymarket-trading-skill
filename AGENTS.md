@@ -3,7 +3,7 @@
 ## Repository
 
 - **Source:** https://github.com/lacymorrow/openclaw-polymarket-trading-skill
-- **ClawHub slug:** `polymarket-trading`
+- **ClawHub slug:** `polymarket-cli-trading`
 - **Current version:** See `_meta.json`
 
 ## Publishing to ClawHub
@@ -13,8 +13,8 @@ After making changes, publish the updated skill:
 ```bash
 # Bump version in _meta.json first, then:
 clawhub publish ~/clawd/skills/polymarket-trading \
-  --slug polymarket-trading \
-  --name "Polymarket Trading" \
+  --slug polymarket-cli-trading \
+  --name "Polymarket CLI Trading" \
   --version <NEW_VERSION> \
   --changelog "Description of changes"
 ```

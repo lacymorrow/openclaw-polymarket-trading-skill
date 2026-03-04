@@ -180,7 +180,7 @@ polymarket clob create-order --token TOKEN_ID --side buy --price 0.50 --size 10 
 ## Installation via ClawHub
 
 ```bash
-clawhub install polymarket-trading
+clawhub install polymarket-cli-trading
 ```
 
 **From source:**
