@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Rust](https://img.shields.io/badge/rust-stable-orange.svg)](https://www.rust-lang.org)
-[![ClawHub](https://img.shields.io/badge/ClawHub-Skill-green.svg)](https://clawhub.com)
+[![ClawHub](https://img.shields.io/badge/ClawHub-Skill-green.svg)](https://clawhub.ai/skills/polymarket-cli-trading)
 
 ## Why This Skill?
 
